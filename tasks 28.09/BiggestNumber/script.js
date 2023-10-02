@@ -1,5 +1,5 @@
 
-let nums = [-5,-2,-6,0,-1,-100,-20];
+let nums = [-5,-2,-6,0,-1];
 
 let largest = nums[0];
 

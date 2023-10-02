@@ -7,9 +7,5 @@ for(countWithBackgroundColor = 0;countWithBackgroundColor < elementsToCount.leng
     elementsToCount[countWithBackgroundColor].style.backgroundColor = 'rgba(0, 0, 0, 0.25)';
 }
 
- /*elementsToCount.forEach((element) => {
-     element.style.backgroundColor = 'rgba(0, 0, 0, 0.25)';
-     countWithBackgroundColor++;
- });*/
 
  console.log(`Count of elements with background color: ${countWithBackgroundColor}`);
